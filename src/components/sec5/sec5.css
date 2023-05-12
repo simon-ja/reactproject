@@ -1,0 +1,42 @@
+.son8{
+    text-align: center;
+    transform: translateY(-36rem);
+    
+}
+
+span{
+    color: orange;
+}
+
+.loee{
+    color:orange;
+}
+
+p{
+    margin-top: 2rem;
+}
+
+.patt{
+height: 17rem;
+width: 30rem;
+background: white;
+text-align: center;
+margin-left: 27rem ;
+transform: translateY(-33rem);
+border-radius: 7px;
+}
+
+.matt{
+    font-size: small;
+}
+
+.dox{
+    transform: translateY(-1rem);
+    font-weight: bold;
+}
+
+.homm{
+    text-align: center;
+    transform:translateY(-27rem);
+}
+

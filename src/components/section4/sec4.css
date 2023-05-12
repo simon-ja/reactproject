@@ -1,0 +1,36 @@
+.son2{
+  text-align: center;
+  transform: translateY(-49rem);
+
+}
+
+.para3{
+    color:orange;
+    font-weight: bolder;
+}
+
+.imagee{
+    height: 80px;
+    width: 80px ;
+}
+
+.faty{
+    display: flex;
+   justify-content: center;
+   transform: translateY(-44rem);
+}
+
+.pat{
+    margin-left: 2rem;
+    height: 16rem;
+    width: 14rem;
+    background: white;
+    text-align: center;
+    font-size: small;
+    border-radius: 5px;
+}
+span{
+    margin-top: 20px;
+    font-weight: bolder;
+}
+

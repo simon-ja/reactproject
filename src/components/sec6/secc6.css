@@ -1,0 +1,29 @@
+.true{
+   
+    height: 5rem;
+    width: 31rem;
+    background: white;
+    border-radius: 35px;
+    margin-left: 27rem;
+    transform: translateY(-25rem);
+    
+}
+
+.virgo{
+    border: none;
+    padding: 7px;
+    border-radius: 30px;
+    width: 8rem;
+    background: orange;
+    color: white;
+    margin-left: 21.7rem;
+    transform: translateY(-2.9rem);
+}
+
+.pataa{
+   margin-left: 18px;
+   transform: translateY(-0.2rem);
+   display: inline-block;
+   
+   
+}

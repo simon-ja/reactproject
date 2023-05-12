@@ -1,0 +1,29 @@
+.head{
+    font-size: 38px;
+    margin-left: 34rem;
+    transform: translateY(-30rem);
+}
+
+.firstimage{
+    height: 27rem;
+    width: 27rem;
+    margin-left: 55rem;
+    transform: translateY(-44rem);
+    
+}
+.firstp{
+    margin-left: 34rem;
+    transform: translateY(-30rem);
+    font-size: 15px;
+}
+
+.butt2{
+    margin-left: 34rem;
+    transform: translateY(-57rem);
+    border: none;
+    padding: 9px;
+    border-radius: 30px;
+    width: 8rem;
+    background: orange;
+    color: white;
+}

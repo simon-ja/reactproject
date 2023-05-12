@@ -1,0 +1,44 @@
+.image2{
+    height: 35rem;
+    transform: translateY(-39rem);
+}
+.imm{
+    position: relative;
+}
+.image3{
+    height: 25rem;
+    position: absolute;
+    bottom: 43rem;
+    left: 2rem;
+   
+}
+.son{
+    margin-left: 35rem;
+    transform: translateY(-68rem);
+}
+.para1{
+    color: orange;
+    font-weight: bolder;
+}
+.butt4{
+    border: none;
+    padding: 7px;
+    border-radius: 30px;
+    width: 8rem;
+    background: orange;
+    color: white;
+}
+
+.play{
+    display: flex;
+    margin-left:11rem ;
+    border-radius: 46px;
+    height: 43px;
+    width: 45px;
+    background: #333;
+    text-align: center;
+    align-items: center;
+    justify-content: center;color: white;
+    transform: translateY(-2.2rem);
+}
+
